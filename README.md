@@ -14,7 +14,7 @@
     <img src="https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/86e49829-4555-4742-aae7-d885c187cea7" alt="manner" />
 </p>
 
-<h3 align="center">Aspiring Penetration Tester | Freelance Network Tester | Web App Developer</h3>
+<h3 align="center">Aspiring Penetration Tester | r | Web App Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gabrieledattile&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieledattile" /> 
