@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriele D'attile</h1>
+<h1 align="center">Hi 👋, I'm Gabriele D'Attile</h1>
 
 <p align="center">
     <img src="https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/5d476cab-aee7-4d4a-b07b-cbe26e22b383" alt="animata" />
